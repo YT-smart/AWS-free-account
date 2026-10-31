@@ -84,7 +84,9 @@ description: 自动在 AWS Lightsail 上部署一台 Windows 云电脑。AI 使�
 
 ### 3.1 打开云浏览器
 
-启动云电脑/云浏览器功能，访问 AWS 官网：
+启动云电脑/云浏览器功能。**必须使用无痕模式（Incognito）或全新的浏览器窗口**，避免残留的 Cookie、缓存或登录状态影响注册环境。
+
+访问 AWS 官网：
 
 ```
 https://aws.amazon.com/
