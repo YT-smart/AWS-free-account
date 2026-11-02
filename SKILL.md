@@ -86,17 +86,15 @@ description: 自动在 AWS Lightsail 上部署一台 Windows 云电脑。AI 使�
 
 启动云电脑/云浏览器功能。**必须使用无痕模式（Incognito）或全新的浏览器窗口**，避免残留的 Cookie、缓存或登录状态影响注册环境。
 
-访问 AWS 官网：
+直接访问 AWS 注册页面：
 
 ```
-https://aws.amazon.com/
+https://signin.aws.amazon.com/signup?request_type=builderId
 ```
 
-### 3.2 进入注册页面
+打开后就是填写邮箱的注册页面，不需要再找注册按钮。
 
-点击页面右上角的 **Create an AWS Account**（创建 AWS 账户）按钮。
-
-### 3.3 填写邮箱
+### 3.2 填写邮箱
 
 - 在 Email address 字段中输入用户提供的邮箱
 - AWS account name 可填 `MyAWSAccount` 或类似名称
@@ -141,7 +139,14 @@ AWS 已经往你的邮箱 [用户邮箱] 发了一封验证邮件。
 9. 勾选同意条款
 10. 点击 **Continue**
 
-### 3.7 判断注册结果
+### 3.7 选择账户方案（如果出现）
+
+注册过程中可能会出现「选择账户方案」的页面。
+
+- 如果出现了，直接选择 **Free** 方案。
+- 如果没有出现这个步骤，不用管，继续往下走。
+
+### 3.8 判断注册结果
 
 - ✅ **看到欢迎页面**（Welcome / Get Started）→ 注册成功，继续下一步。
 - ❌ **要求绑定银行卡 / 付款信息** → 暂停，向用户报告：
