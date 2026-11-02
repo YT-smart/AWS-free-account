@@ -1,5 +1,5 @@
 ---
-name: aws-lightsail-claude
+name: AWS-free-account
 description: 自动在 AWS Lightsail 上部署一台 Windows 云电脑。AI 使用云浏览器完成 AWS 注册、创建 Lightsail 实例、设置静态 IP、挂载数据盘，全程仅在邮箱验证码环节暂停等待用户输入。完成后交付服务器 IP、用户名、密码等连接信息。用户提供邮箱、选择服务器地区和配置档位即可。
 ---
 

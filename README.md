@@ -47,7 +47,7 @@
 1. 把仓库地址发给 AI，告诉它安装这个 Skill：
 
 ```
-帮我安装：https://github.com/YT-smart/aws-lightsail-claude.git，安装完成后按照流程开始工作
+帮我安装：https://github.com/YT-smart/AWS-free-account.git，安装完成后按照流程开始工作
 ```
 
 2. AI 会问你要 4 样东西：
@@ -66,7 +66,7 @@
 ### 文件结构
 
 ```
-aws-lightsail-claude/
+AWS-free-account/
 ├── SKILL.md                        # 主流程（9 步完整指令）
 └── references/
     ├── address-templates.md        # 地址生成模板（中国/美国/日本）
