@@ -94,7 +94,7 @@ https://signin.aws.amazon.com/signup?request_type=builderId
 
 打开后就是填写邮箱的注册页面，不需要再找注册按钮。
 
-> ⚠️ **重要**：这个链接同时也是后续登录的入口。注册完成后登录时，必须用这个链接登录，不要用 console.aws.amazon.com 或其他地址，否则可能显示账号不存在。这是 Builder ID 账号，和传统 AWS root 账号是两套独立的登录体系。
+> ⚠️ **重要**：这个链接同时也是后续登录的入口。注册完成后登录时，必须用这个链接登录，不要用 console.aws.amazon.com 或其他地址，否则可能显示错误。这是 Builder ID 账号，和传统 AWS root 账号是两套独立的登录体系。
 
 ### 3.2 填写邮箱
 
@@ -316,7 +316,7 @@ AWS 账号注册成功！
 登录地址：https://signin.aws.amazon.com/signup?request_type=builderId
 邮    箱：[用户邮箱]
 密    码：[AWS 密码]
-⚠️ 登录必须用上面这个地址，不要用 console.aws.amazon.com，否则会显示账号不存在
+⚠️ 登录必须用上面这个地址，不要用 console.aws.amazon.com，否则会报错
 
 🖥️ 服务器连接信息
 ━━━━━━━━━━━━━━━━━━━━
