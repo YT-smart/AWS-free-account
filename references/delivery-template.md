@@ -15,7 +15,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📋 AWS 账号
-   登录地址：https://console.aws.amazon.com/
+   登录地址：https://signin.aws.amazon.com/signup?request_type=builderId
    邮    箱：[邮箱地址]
    密    码：[AWS 账号密码]
 
