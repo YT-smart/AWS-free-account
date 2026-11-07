@@ -44,7 +44,12 @@
 
 ### 前提
 
-你需要一个能操控浏览器的 AI，比如 [Dola](https://dola.com/) 的云电脑功能。
+你需要一个能操控浏览器的 AI，比如：
+
+- [Dola](https://dola.com/) 的云电脑功能
+- [豆包](https://www.doubao.com/) 的云电脑模式
+- Muse
+- Grok Bot
 
 ### 步骤
 
